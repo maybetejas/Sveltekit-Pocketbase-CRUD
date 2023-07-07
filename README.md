@@ -1,3 +1,6 @@
+![image](https://github.com/maybetejas/Sveltekit-Pocketbase-CRUD-/assets/72975854/a30084d8-50b5-4eb1-94b3-8162351680b9)
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
